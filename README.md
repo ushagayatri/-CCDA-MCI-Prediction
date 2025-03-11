@@ -9,6 +9,5 @@ python src/data_preprocessing.py
 python src/feature_extraction.py
 python src/train.py
 python src/evaluate.py
-This repository implements the full pipeline for MCI detection using CCDA. Let me know if you need custom modifications or additional feature
-
+This repository implements the full pipeline for MCI detection using CCDA. 
 
